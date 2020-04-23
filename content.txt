@@ -1,4 +1,42 @@
-$
-$         #(Center Text)#
-$#Introduction#
-Hello my name is Bug Boy.
+#[World Trade Organisation]#(black,large)
+
+The World Trade Organization (WTO) is the only global international organization dealing with the rules of trade between nations. At its heart are the WTO agreements, negotiated and signed by the bulk of the world's trading nations and ratified in their parliaments.
+
+Core Activities of WTO
+#[Trade negotiations]#(black)
+The WTO agreements cover goods, services and intellectual property. They spell out the principles of liberalization, and the permitted exceptions. They include individual countries’ commitments to lower customs tariffs and other trade barriers, and to open and keep open services markets. They set procedures for settling disputes.
+
+#[Implementation and monitoring]#(black)
+WTO agreements require governments to make their trade policies transparent by notifying the WTO about laws in force and measures adopted. Various WTO councils and committees seek to ensure that these requirements are being followed and that WTO agreements are being properly implemented. All WTO members must undergo periodic scrutiny of their trade policies and practices, each review containing reports by the country concerned and the WTO Secretariat.
+
+#[Dispute settlement]#(black)
+The WTO’s procedure for resolving trade quarrels under the Dispute Settlement Understanding is vital for enforcing the rules and therefore for ensuring that trade flows smoothly. Countries bring disputes to the WTO if they think their rights under the agreements are being infringed. Judgements by specially appointed independent experts are based on interpretations of the agreements and individual countries’ commitments.
+
+#[Building trade capacity]#(black)
+WTO agreements contain special provision for developing countries, including longer time periods to implement agreements and commitments, measures to increase their trading opportunities, and support to help them build their trade capacity, to handle disputes and to implement technical standards.
+
+#[Outreach]#(black)
+The WTO maintains regular dialogue with non-governmental organizations, parliamentarians, other international organizations, the media and the general public on various aspects of the WTO and the ongoing Doha negotiations, with the aim of enhancing cooperation and increasing awareness of WTO activities.
+
+Examples:
+1. TRIP Agreeement - The TRIPS Agreement, which came into effect on 1 January 1995, is to date the most comprehensive multilateral agreement on intellectual property.
+2. The WTO organizes hundreds of technical cooperation missions to developing countries annually. It also holds numerous courses each year in Geneva for government officials. Aid for Trade aims to help developing countries develop the skills and infrastructure needed to expand their trade.
+3. Many trade negotiations are being negotiated under the Doha Development Agenda, launched by WTO trade ministers in Doha, Qatar, in November 2001.
+
+----------------------------------------------------
+
+#[The World Intellectual Property Organization]#(black,large)
+
+The World Intellectual Property Organization is one of the 15 specialized agencies of the United Nations. WIPO was created in 1967 "to encourage creative activity, to promote the protection of intellectual property throughout the world".
+
+Core Activities of WIPO
+1. WIPO assists campaigns development to improve IP protection all over the world and to harmonize national legislations in this field.
+2. It helps in signing international agreements on IP protection.
+3. Helps in applying the administrative functions of the Paris and Berne Unions.
+4. Renders technical and legal assistance in the field of IP.
+5. Helps in collection and dissemination of the information, conducting researches and publishing their results.
+6. Ensures the work of the services facilitating the international IP protection.
+
+Examples:
+1. WIPO moderated 1883 – Paris Convention, 1886 – Berne Convention and 1891 – Madrid Agreement to establish a global IP Regime.
+2. It established the WIPO Academy to provide general and specialized courses on IP. Academy courses are interdiscplinary in their approach and targeted at a wide range of IP professionals.

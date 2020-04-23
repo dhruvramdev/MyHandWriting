@@ -1,0 +1,55 @@
+#paper {
+    background: white url('../images/white_paper.jpg');
+    padding: 50px 50px;
+    width: 90%;
+}
+
+.lines {
+    min-height: 25px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.word {
+    clear: both;
+    display: flex;
+}
+
+img {
+    height: 25px;
+    width: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+span.space {
+    height: auto;
+    width: 10px;
+}
+
+/* Options for formatting */
+.center {
+    margin: auto;
+}
+
+.center img {
+    width: 14px !important;
+    height: auto !important;
+    margin-right: 1px !important;
+}
+
+.large img {
+    width: 13px !important;
+    height: 28px !important;
+    margin-right: 1px !important;
+}
+
+.black {
+    filter: brightness(30%);
+}
+
+.blue {
+    filter: brightness(100%);
+}
