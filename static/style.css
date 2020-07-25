@@ -1,6 +1,6 @@
 #paper {
     background: white url('../images/white_paper.jpg');
-    padding: 50px 50px;
+    padding: 50px 30px;
     width: 90%;
 }
 
@@ -18,10 +18,10 @@
 }
 
 img {
-    height: 25px;
-    width: 10px;
-    margin-top: 5px;
-    margin-bottom: 10px;
+    /*height: 25px;*/
+    /*width: 10px;*/
+    /*margin-top: 0;*/
+    /*margin-bottom: 5px;*/
 }
 
 span.space {
@@ -47,9 +47,9 @@ span.space {
 }
 
 .black {
-    filter: brightness(30%);
+
 }
 
 .blue {
-    filter: brightness(100%);
+
 }

@@ -18,15 +18,15 @@ class Character:
         self.style = {
             'width': Character.get_width_char(char),
             'height': 25,
-            'margin-top': 5,
-            'margin-bottom': 10,
+            'margin-top': 0,
+            'margin-bottom': 5,
             'margin-right': 0
         }
 
     def randomize(self):
         # Randomize 33% of times
-        limit = random.randint(2, 3)
-        if random.random() < 0.33:
+        limit = 4
+        if random.random() < 0.4:
             keys = list(self.style.keys())
             random_keys = random.choices(keys, k=random.randint(1, limit))
             for key in random_keys:
@@ -48,7 +48,9 @@ class Character:
     def get_width_char(ch):
         width_mapper = {
             'w': 16,
-            'i': 8
+            'i': 6,
+            'l': 8,
+
         }
         return width_mapper.get(ch.lower(), 10)
 
@@ -107,15 +109,22 @@ def construct_image(character):
     )
 
 
+next_ending = False
+
+
 def construct_word(word, options, ending=' '):
+    global next_ending
     print("Constructing : ", word)
     with tag('div', klass=' '.join(options)):
+        if next_ending:
+            line('span', '', klass='space', style='width: {}px'.format(random.randint(5, 15)))
         for char in word:
             char_obj = Character.from_char(char)
             char_obj.randomize()
             construct_image(char_obj)
         if ending == ' ':
-            line('span', '', klass='space')
+            next_ending = True
+            # line('span', '', klass='space')
 
 
 def construct_from_set(word_set):
